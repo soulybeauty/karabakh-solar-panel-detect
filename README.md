@@ -1,0 +1,1 @@
+# karabakh-solar-panel-detect
