@@ -1,4 +1,4 @@
-# karabakh-solar-panel-detect
+# Karabakh-solar-panel-detect
 
 This dashboard is made of 13 million data and which is real-time data collected some of it using online tools by cropping whole map one by one and some using Pysolar library of Python. Dashboard can help scientists/engineers to make decision fast about where to put green energy machines that gives most energy possible! 
 
